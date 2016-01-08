@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Bekroogle's rants
+email: bekroogle@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This blog is intended as a place where I can share my
+  thoughts on programming languages, user interfaces, and
+  pretty much all things computing...without driving my
+  family crazy.
+baseurl: "" # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site
+twitter_username: bekroogle
+github_username:  bekroogle
+
+# Build settings
+markdown: kramdown
