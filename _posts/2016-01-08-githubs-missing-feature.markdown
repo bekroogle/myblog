@@ -10,7 +10,7 @@ File descriptions!
 
 Check out the image below. Imagine you're making you're perusing the files in GitHub's [Atom](github.com/atom/atom) project for the first time, hoping to fork it and make fix a certain bug or add a specific feature.
 
-![Bad descriptions]({{ site.url }}{{ site.baseurl }}/assets/useless-descriptions.png)
+![Bad descriptions]({{ site.baseurl }}/assets/useless-descriptions.png)
 
 Look next to each file name, and what do you see? The mandatory commit message that git enforces (and I'm glad it does) when you make a change. Now, being new to the project, from your perspective, its current state might as well be its initial state. You don't really care who changed what and what they were doing when they changed each file. What you really want to know, why do these files exist? How is the functionality encapsulated in the file structure?
 
